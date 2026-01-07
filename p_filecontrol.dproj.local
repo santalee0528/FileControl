@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.892,=C:\Users\CODERUN\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.037,=C:\Users\CODERUN\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2026-01-07 08:58:56.819,=C:\Users\CODERUN\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2026-01-07 09:01:08.073,C:\Users\CODERUN\Documents\GitHub\filecontrol\u_con.dfm=C:\Users\CODERUN\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2026-01-07 09:01:08.073,C:\Users\CODERUN\Documents\GitHub\filecontrol\u_con.pas=C:\Users\CODERUN\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2026-01-07 09:01:18.086,C:\Users\CODERUN\Documents\GitHub\filecontrol\p_filecontrol.dproj=C:\Users\CODERUN\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
